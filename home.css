@@ -195,16 +195,16 @@ body{
     width: 90%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(3) .bar span{
-    width: 35%;
+    width: 95%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(4) .bar span{
-    width: 60%;
+    width: 90%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(5) .bar span{
-    width: 25%;
+    width: 35%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(6) .bar span{
-    width: 90%;
+    width: 60%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(7) .bar span{
   width: 50%;
@@ -390,6 +390,6 @@ body{
     }
 
     .view-project{
-      width: 110px;
+      min-width: 120px;
     }
   }
