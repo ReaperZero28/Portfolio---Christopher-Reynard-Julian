@@ -192,13 +192,13 @@ body{
     width: 80%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(2) .bar span{
-    width: 90%;
+    width: 85%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(3) .bar span{
-    width: 95%;
+    width: 90%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(4) .bar span{
-    width: 90%;
+    width: 85%;
  }
  .my-skill:nth-child(1) .skill-box .skill-content:nth-child(5) .bar span{
     width: 35%;
@@ -226,7 +226,7 @@ body{
     width: 85%;
  }
  .my-skill:nth-child(2) .skill-box .skill-content:nth-child(6) .bar span{
-  width: 85%;
+  width: 90%;
 }
  
  /* CONTACT */
