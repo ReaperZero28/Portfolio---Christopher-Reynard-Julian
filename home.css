@@ -35,7 +35,8 @@ body{
  .fs-md {font-size: 14px;}
  .fs-lg {font-size: 16px;}
  .fs-xl {font-size: 20px;}
- 
+ .fs-2xl{font-size: 24px;}
+
  /* Font Weight */
  .fw-100 {font-weight: 100;}
  .fw-300 {font-weight: 300;}
@@ -140,6 +141,20 @@ body{
   .btn-cv:hover, .btn-custom:focus{
     border-color: #ff6836;
     color: #ff6836;
+  }
+
+  /* EDUCATION */
+
+  /* li::marker{
+    font-size: 40px;
+  } */
+
+  .position{
+    /* padding-left: 24px; */
+  }
+
+  .jobdesc{
+    padding-left: 20px;
   }
 
   /* WORK */
